@@ -1,0 +1,13 @@
+/* *{
+    background-color: blueviolet;
+} */
+
+.appbar{
+    background-color:coral !important;
+}
+
+.spotifyButton{
+    margin-left: 47.5% !important;
+    position: fixed;
+    color: aliceblue !important;
+}

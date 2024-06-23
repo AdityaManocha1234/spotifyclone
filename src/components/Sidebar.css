@@ -1,0 +1,23 @@
+.sidebar{
+    margin-top: 3rem;
+    padding-left: 0.1rem;
+    width: 240px; 
+    height: 100%;
+    background-color: coral;
+    color: azure; 
+    display: flex; 
+    flex-direction: column; 
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    padding-top: 1.5rem;
+}
+
+.sidebarItems{
+    gap: 5rem !important;
+}
+
+.icon{
+    color: aliceblue !important;
+}
